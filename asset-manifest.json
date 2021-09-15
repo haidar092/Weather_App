@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/haidar092/Weather_App.git/static/css/main.19c4251d.chunk.css",
-    "main.js": "/haidar092/Weather_App.git/static/js/main.75f150ea.chunk.js",
-    "main.js.map": "/haidar092/Weather_App.git/static/js/main.75f150ea.chunk.js.map",
-    "runtime-main.js": "/haidar092/Weather_App.git/static/js/runtime-main.61a60add.js",
-    "runtime-main.js.map": "/haidar092/Weather_App.git/static/js/runtime-main.61a60add.js.map",
-    "static/js/2.8a1a2f7a.chunk.js": "/haidar092/Weather_App.git/static/js/2.8a1a2f7a.chunk.js",
-    "static/js/2.8a1a2f7a.chunk.js.map": "/haidar092/Weather_App.git/static/js/2.8a1a2f7a.chunk.js.map",
-    "index.html": "/haidar092/Weather_App.git/index.html",
-    "static/css/main.19c4251d.chunk.css.map": "/haidar092/Weather_App.git/static/css/main.19c4251d.chunk.css.map",
-    "static/js/2.8a1a2f7a.chunk.js.LICENSE.txt": "/haidar092/Weather_App.git/static/js/2.8a1a2f7a.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.19c4251d.chunk.css",
+    "main.js": "/static/js/main.75f150ea.chunk.js",
+    "main.js.map": "/static/js/main.75f150ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.93f17f17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.93f17f17.js.map",
+    "static/js/2.8a1a2f7a.chunk.js": "/static/js/2.8a1a2f7a.chunk.js",
+    "static/js/2.8a1a2f7a.chunk.js.map": "/static/js/2.8a1a2f7a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.19c4251d.chunk.css.map": "/static/css/main.19c4251d.chunk.css.map",
+    "static/js/2.8a1a2f7a.chunk.js.LICENSE.txt": "/static/js/2.8a1a2f7a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61a60add.js",
+    "static/js/runtime-main.93f17f17.js",
     "static/js/2.8a1a2f7a.chunk.js",
     "static/css/main.19c4251d.chunk.css",
     "static/js/main.75f150ea.chunk.js"
